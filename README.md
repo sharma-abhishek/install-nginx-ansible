@@ -1,6 +1,9 @@
 # install-nginx-ansible
 Ansible playbook to install nginx on servers
 
+### Prerequisites:
+
+Python should be installed on remote servers.
 
 ### Running instructions:
 
